@@ -23,8 +23,8 @@
 #include <ESP8266WiFi.h>
 #include <Wire.h>
 
-#include "myConfig.h"
-//#include "Config.h"
+
+#include "Config.h"
 
 #ifdef SENSOR_TYPE_BME280
 
